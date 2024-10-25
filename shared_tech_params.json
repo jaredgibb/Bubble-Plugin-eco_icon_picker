@@ -1,0 +1,24 @@
+{
+    "assets": {
+        "AAC": {
+            "name": "icon_picker_css",
+            "url": "//meta-q.cdn.bubble.io/f1720721213041x811870444138683600/iconpicker-1.5.0.css"
+        },
+        "AAE": {
+            "name": "font_awesome_5",
+            "url": "//meta-q.cdn.bubble.io/f1720721274965x676348066451553200/all.min.css"
+        },
+        "AAH": {
+            "name": "icon_picker_json",
+            "url": "//meta-q.cdn.bubble.io/f1720721975535x116291670886437660/iconpicker-1.5.0.json"
+        },
+        "AAL": {
+            "name": "icon_picker_js",
+            "url": "//meta-q.cdn.bubble.io/f1720803794388x920874466621572000/iconpicker-1.5.0.js"
+        }
+    },
+    "dependencies": {
+        "plugin_api_version": 4,
+        "use_jquery": true
+    }
+}

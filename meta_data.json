@@ -1,0 +1,12 @@
+{
+    "categories": {
+        "0": "image"
+    },
+    "demo_page": "nope.nope.com",
+    "description": "this is the font awesome 5 library. with a picker. it's dope. get a copy for yourself today. ",
+    "image": "//meta-q.cdn.bubble.io/f1721060398915x156725781254621900/IMG_1962.jpeg",
+    "license": "open_source",
+    "link": "https://nope.com/service_this/never",
+    "name": "eco_icon_picker",
+    "plugin_instructions": "put the picker somwhere on the page\n\nadd an action \nin the wf, grab the wfa to open the picker\n\nset something to occur after the even 'icon_picked'\n\nyou can reference the stated 'picked_icon' to store the icon. \n\nyou can use the icon viewer to display any of the icons selected from the picker"
+}

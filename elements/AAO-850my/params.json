@@ -1,0 +1,38 @@
+{
+    "add_is_visible": true,
+    "can_fit_height": true,
+    "can_fit_width": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 50,
+        "width": 50
+    },
+    "display": "icon display",
+    "events": {
+        "AAT": {
+            "caption": "click_heard",
+            "name": "click_heard"
+        }
+    },
+    "fields": {
+        "AAP": {
+            "caption": "icon_name",
+            "editor": "DynamicValue",
+            "name": "icon_name",
+            "rank": 0,
+            "value": "text"
+        },
+        "AAQ": {
+            "caption": "font_size",
+            "editor": "DynamicValue",
+            "name": "font_size",
+            "rank": 1,
+            "value": "number"
+        }
+    },
+    "icon": "ion-android-checkbox-blank",
+    "property_applications": {
+        "MinWidth": true,
+        "resizable": true
+    }
+}
